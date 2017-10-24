@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "loon"
-    description = "promiting secure cyber presence"
+    description = "promoting secure cyber presence"
     githubUsername = "dglee2"
     accent = "blue"
     showBorder = true
