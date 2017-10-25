@@ -14,7 +14,7 @@ googleAnalytics = ""
     backgroundColor = "white"
     font = "Rock Salt" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "Far"
+    highlightStyle = "sunburst"
     #highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
