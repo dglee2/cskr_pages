@@ -3,7 +3,7 @@ title: "C.I.A. of Security"
 date: 2017-10-25
 description: "learn about the fundamentals of security"
 tags: ["cia"]
-draft: true
+draft: false 
 ---
 '보안은 무엇인가'라는 질문에 쉽게 답하기는 어렵습니다. 그러나 일반적으로 보안은 세가지 기본개념으로 설명합니다. 보안 또는 정보보안 분야에 종사하거나 관심이 있는 사람은 쉽게 접할수 있는 개념이지만, 아직까지 보안에 대해 관심이 없던 사람들에게는 조금 생소할수 있겠습니다.
 
