@@ -34,8 +34,8 @@
 			<tr><td>
 			<header class="major">
 				<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-				<p>{{ .Summary }}</p>
 			</header>
+				<p>{{ .Summary | markdownify }}</p>
 			</td></tr>
 		{{ end }}
 		</tbody></table>
