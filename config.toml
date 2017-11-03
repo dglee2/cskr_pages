@@ -1,4 +1,4 @@
-baseURL = "https://www.cybersecurity.kr/"
+baseURL = "http://cybersecurity.kr/"
 languageCode = "en-us"
 title = "Cybersecurity.kr"
 paginate = 5
