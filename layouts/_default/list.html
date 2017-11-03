@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+{{ partial "head.html" . }}
+	<body>
+		<!-- Wrapper -->
+			<div id="wrapper">
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+{{ $paginator := .Paginate (.Data.Pages.ByLastmod) }}
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="{{ .Site.BaseURL }}/images/{{ .Params.Image }}" alt="" />
+							</span>
+							<header class="major">
+								<h1>{{ .Title }}</h1>
+							</header>
+							<div class="content">
+								<p>{{ .Content }}</p>
+							</div>
+							{{ template "_internal/pagination.html" . }}
+						</div>
+					</section>
+
+	<div id="main">
+		<section id="one" >
+		<div class="inner">
+		<div class="table-wrapper">
+		<table>
+		<tbody>
+		{{ range $paginator.Pages }}
+			<tr><td>
+			<header class="major">
+				<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+				<p>{{ .Summary }}</p>
+			</header>
+			</td></tr>
+		{{ end }}
+		</tbody></table>
+		</div>
+		</div>
+		</section>
+	</div>
+
+{{ partial "footer.html" . }}
+			</div>
+{{ partial "js.html" . }}
+
+	</body>
+</html>

@@ -1,0 +1,13 @@
+<section id="one" class="tiles">
+	{{ range after 1 .Site.Menus.main }}
+	<article>
+	<span class="image">
+		<img src="images/top_{{ .Identifier }}.jpeg">
+	</span>
+	<header class="major">
+		<h3><a href="{{ .URL }}">{{ .Identifier | upper }}</a></h3>
+		<p>{{ .Name }}</p>
+	</header>
+	</article>
+	{{ end }}
+</section>

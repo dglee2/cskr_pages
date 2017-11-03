@@ -1,0 +1,19 @@
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							{{ with .Site.GetPage "page" "intro.md" }}
+							<span class="image">
+								<img src="images/index_banner2.jpeg" />
+							</span>
+							<header class="major">
+									<h1>{{ .Title | markdownify }}</h1>
+							</header>
+							<div class="content">
+								<p>{{ .Content | markdownify }}</p>
+								<ul class="actions">
+									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+								</ul>
+							</div>
+							{{ end }}
+						</div>
+					</section>
