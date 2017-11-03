@@ -4,7 +4,7 @@ weight: 1
 date: 2017-11-03T20:10:43+09:00
 image: 
 tags: ["isms"]
-draft: true
+draft: false 
 ---
 CISSP가 되고나서 ISMS의 중요성을 알았습니다.
 
