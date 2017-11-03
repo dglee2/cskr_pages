@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.cybersecurity.kr/"
 languageCode = "en-us"
 title = "Cybersecurity.kr"
 paginate = 5
@@ -14,25 +14,25 @@ url="/"
 weight=1
 
 [[menu.main]]
-name="FreeBSD Name"
+name="Opensource *NIX"
 identifier="freebsd"
 url="/freebsd/"
 weight=2
 
 [[menu.main]]
-name="GTK Name"
+name="Gimp Toolkit"
 identifier="gtk"
 url="/gtk/"
 weight=3
 
 [[menu.main]]
-name="ISMS Name"
+name="Information Security Management System"
 identifier="isms"
 url="/isms/"
 weight=4
 
 [[menu.main]]
-name="Pen Test Name"
+name="Penetration Test"
 identifier="pentest"
 description="description"
 url="/pentest/"
