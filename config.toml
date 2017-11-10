@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Cybersecurity.kr"
 paginate = 5
 copyright = "CYBERSECURITY.KR ALL RIGHTS RESERVED"
+pygmentsCodeFences = "true"
+
 [params]
 author_email = "loon@cybersecurity.kr"
 author_github = "dglee2"
