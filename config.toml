@@ -16,26 +16,26 @@ url="/"
 weight=1
 
 [[menu.main]]
-name="Opensource *NIX"
-identifier="freebsd / openbsd"
-url="/freebsd/"
+identifier="Philosophy"
+name="Mission / Vision / Core Values"
+url="/philosophy/"
 weight=2
 
 [[menu.main]]
-name="Gimp Toolkit"
-identifier="gtk"
-url="/gtk/"
+identifier="Services"
+name="ICT Infrastructure / Security / Software / Training"
+url="/services/"
 weight=3
 
 [[menu.main]]
-name="Information Security Management System"
-identifier="isms"
-url="/isms/"
+identifier="Portfolio"
+name="Examples and Samples"
+url="/portfolio/"
 weight=4
 
 [[menu.main]]
-name="Penetration Test"
-identifier="pentest"
+identifier="Blog"
+name="News and Articles"
 description="description"
-url="/pentest/"
+url="/blog/"
 weight=5
