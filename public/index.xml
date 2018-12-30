@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity.kr</title>
+    <link>http://cybersecurity.kr/</link>
+    <description>Recent content on Cybersecurity.kr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CYBERSECURITY.KR ALL RIGHTS RESERVED</copyright>
+    <lastBuildDate>Fri, 03 Nov 2017 20:38:20 +0900</lastBuildDate>
+    
+	<atom:link href="http://cybersecurity.kr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Core Values</title>
+      <link>http://cybersecurity.kr/philosophy/core_values/</link>
+      <pubDate>Fri, 03 Nov 2017 20:38:20 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/philosophy/core_values/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;ICT 전 분야에 걸친 종합적인 상담 / 시스템 구축과 운용&lt;/li&gt;
+&lt;li&gt;장비(Hardware)가 아닌 지식과 기술을 판매&lt;/li&gt;
+&lt;li&gt;고객 중심 서비스 - 고객이 구매상품을 이해하도록 컨설팅&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ICT Infrastructure 구축</title>
+      <link>http://cybersecurity.kr/services/infra/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/infra/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;네트워크 [ Network ]&lt;/li&gt;
+&lt;li&gt;서버 [ Server ]&lt;/li&gt;
+&lt;li&gt;웹 [ Web ]&lt;/li&gt;
+&lt;li&gt;이메일 [ E-Mail System ]&lt;/li&gt;
+&lt;li&gt;데이터베이스 [ Database ]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://cybersecurity.kr/services/security/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/security/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;정보보호 시스템 [ Firewall, IDS / IPS, ISMS ]&lt;/li&gt;
+&lt;li&gt;침투테스트 [ Penetration Test ]&lt;/li&gt;
+&lt;li&gt;개인정보 보호&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://cybersecurity.kr/services/software/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/software/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Web Application [ PHP, Python ]&lt;/li&gt;
+&lt;li&gt;Groupware [ C\C++, GTK ]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>http://cybersecurity.kr/services/training/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/training/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;개인정보보호 교육&lt;/li&gt;
+&lt;li&gt;보안의식 향상 교육&lt;/li&gt;
+&lt;li&gt;실직자, 재직자 직업훈련&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Secure Cyberpresence</title>
+      <link>http://cybersecurity.kr/intro/</link>
+      <pubDate>Fri, 03 Nov 2017 10:10:01 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/intro/</guid>
+      <description>Tailored ICT Services</description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>http://cybersecurity.kr/philosophy/vision/</link>
+      <pubDate>Thu, 02 Nov 2017 20:38:20 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/philosophy/vision/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;턴키 서비스 체계 구축 - 2020년&lt;/li&gt;
+&lt;li&gt;500개 개업과 개인에 대한 서비스 - 2030년&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mission</title>
+      <link>http://cybersecurity.kr/philosophy/mission/</link>
+      <pubDate>Wed, 01 Nov 2017 20:38:20 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/philosophy/mission/</guid>
+      <description>&lt;p&gt;개인과 기업 모두 비용 부담없이 안전한 ICT 시스템의 구축 및 운용&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://cybersecurity.kr/about/</link>
+      <pubDate>Tue, 24 Oct 2017 20:52:34 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/about/</guid>
+      <description> loon@cybersecurity.kr
+정보처리기사, 정보보안기사, 산업보안관리사, CPPG, CISSP, 리눅스 마스터 1급, MCSA - Windows Server 2016, ACSA 10.5, SCJP
+직업훈련교사 3급 (정보기술 운용, 정보기술 개발)
+Expired: CCNA Security
+ </description>
+    </item>
+    
+  </channel>
+</rss>

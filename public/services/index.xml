@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Cybersecurity.kr</title>
+    <link>http://cybersecurity.kr/services/</link>
+    <description>Recent content in Services on Cybersecurity.kr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CYBERSECURITY.KR ALL RIGHTS RESERVED</copyright>
+    <lastBuildDate>Fri, 03 Nov 2017 11:36:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://cybersecurity.kr/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ICT Infrastructure 구축</title>
+      <link>http://cybersecurity.kr/services/infra/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/infra/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;네트워크 [ Network ]&lt;/li&gt;
+&lt;li&gt;서버 [ Server ]&lt;/li&gt;
+&lt;li&gt;웹 [ Web ]&lt;/li&gt;
+&lt;li&gt;이메일 [ E-Mail System ]&lt;/li&gt;
+&lt;li&gt;데이터베이스 [ Database ]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>http://cybersecurity.kr/services/security/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/security/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;정보보호 시스템 [ Firewall, IDS / IPS, ISMS ]&lt;/li&gt;
+&lt;li&gt;침투테스트 [ Penetration Test ]&lt;/li&gt;
+&lt;li&gt;개인정보 보호&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://cybersecurity.kr/services/software/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/software/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Web Application [ PHP, Python ]&lt;/li&gt;
+&lt;li&gt;Groupware [ C\C++, GTK ]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>http://cybersecurity.kr/services/training/</link>
+      <pubDate>Fri, 03 Nov 2017 19:59:18 +0900</pubDate>
+      
+      <guid>http://cybersecurity.kr/services/training/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;개인정보보호 교육&lt;/li&gt;
+&lt;li&gt;보안의식 향상 교육&lt;/li&gt;
+&lt;li&gt;실직자, 재직자 직업훈련&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

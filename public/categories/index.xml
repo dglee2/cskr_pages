@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Cybersecurity.kr</title>
+    <link>http://cybersecurity.kr/categories/</link>
+    <description>Recent content in Categories on Cybersecurity.kr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CYBERSECURITY.KR ALL RIGHTS RESERVED</copyright>
+    
+	<atom:link href="http://cybersecurity.kr/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
