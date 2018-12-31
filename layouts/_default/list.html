@@ -6,7 +6,7 @@
 			<div id="wrapper">
 {{ partial "header.html" . }}
 {{ partial "nav.html" . }}
-{{ $paginator := .Paginate (.Data.Pages.ByLastmod) }}
+{{ $paginator := .Paginate (.Data.Pages.ByLastmod.Reverse) }}
 				<!-- Banner -->
 				<!-- Note: The "styleN" class below should match that of the header element. -->
 					<section id="banner" class="style2">

@@ -1,6 +1,6 @@
 ---
 title: "Training"
-date: 2017-11-03T19:59:18+09:00
+date: 2017-11-01T19:59:18+09:00
 image: 
 tags: []
 draft: false
