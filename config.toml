@@ -1,5 +1,5 @@
 baseURL = "https://cybersecurity.kr"
-languageCode = "en-us"
+languageCode ="ko-kr"
 title = "Cybersecurity.kr"
 paginate = 5
 copyright = "CYBERSECURITY.KR ALL RIGHTS RESERVED"
@@ -36,6 +36,5 @@ weight=4
 [[menu.main]]
 identifier="Blog"
 name="News and Articles"
-description="description"
 url="/blog/"
 weight=5
