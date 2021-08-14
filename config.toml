@@ -7,7 +7,7 @@ pygmentsCodeFences = "true"
 
 [params]
 author_email = "loon@cybersecurity.kr"
-author_github = "dglee2"
+author_github = "loon-cybersecurity-kr"
 
 [[menu.main]]
 name="Home"
