@@ -1,5 +1,5 @@
 ---
-title: "ISC PDI 수강내역"
+title: "(ISC)^2 PDI 수강내역"
 date: 2021-08-14
 tags: []
 draft: false
